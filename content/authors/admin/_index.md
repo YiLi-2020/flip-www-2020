@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Flip Tanedo
+title: Yi Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,36 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-- name: UCR Particle Theory
-  url: "http://theory.ucr.edu/"
+- name: UC San Diego
+  url: "https://www.ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Flip Tanedo is a professor of particle physics who specializes in the theoretical description of dark matter.
-
+bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 interests:
-- Dark Matter
-- Models of new physics
-- Particle astrophysics
-- Equity in science
+- Drug delivery
+- BioPhotonics
+- Biomimetic materials
+- Multidrug resistance
 
 education:
   courses:
-  - course: PhD, MS in Physics
-    institution: Cornell University
-    year: 2013
-  - course: MS in Physics
-    institution: Durham University/IPPP
-    year: 2009
-  - course: MAst in Applied Mathematics
-    institution: Cambridge University/DAMTP
-    year: 2007
-  - course: BS in Physics and Mathematics
-    institution: Stanford University
-    year: 2006
+  - course: B.S. in Pharmaceutical Science
+    institution: China Pharmaceutical University
+    year: 2020
+  - course: M.S. in NanoEngineering
+    institution: UC San Deigo
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -92,6 +85,8 @@ user_groups:
 - Visitors
 ---
 
-**Flip Tanedo spends his time thinking about dark matter.**
+**Hi, I'm Yi**
 
-He grew up in Los Angeles and fell in love with physics after reading *The Physics of Star Trek*. This carried into degrees in mathematics and physics at Stanford, Cambridge, Durham, and a Ph.D at Cornell. After a postdoc at UC Irvine, he is faculty at UC Riverside where he is known for being covered in chalk dust after a long day’s work.
+I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nanotechnology to build novel [theranostic systems](#publication) that can improve the therapeutic efficiency and treatment experience.
+
+I am actively contributing to [carrier optimization](#projects), and methods that I implemented are controlling geometric and mechanical properties at better nanoscale precision. In my spare time, I enjoy participate in seminars on the practical applications of [LEGO-based](#slider) engineering and programming.
